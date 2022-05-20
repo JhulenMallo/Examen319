@@ -1,3 +1,3 @@
 # Examen319
 
-![Alt text] (https://github.com/JhulenMallo/Examen319/blob/main/Pregunta%203/Ejecucion%20-%20pregunta3.png?raw=true)
+![Alt text] (https://github.com/JhulenMallo/Examen319/blob/b02040578e51e8ac4ba343d8426dd91fde2066e6/Ejecuciones/Ejecucionpregunta1.png)
