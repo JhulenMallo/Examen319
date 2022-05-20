@@ -1,1 +1,1 @@
-![EjecucionPregunta6](https://github.com/JhulenMallo/Examen319/blob/main/Ejecuciones/Ejecucionpregunta5.png)
+![EjecucionPregunta6](https://github.com/JhulenMallo/Examen319/blob/main/Ejecuciones/Ejecucionpregunta6.png)
